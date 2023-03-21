@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-🔭 Atualmente eu estou procurando minha primeira vaga como desenvolvimento web<br><br>👨‍🎓  Estou cursando análise e desenvolvimento de sistemas<br><br>👨‍💻 Venha conhecer meu portifólio: https://duduike.github.io/Portifolio/<br>
+🔭 Atualmente eu estou procurando minha primeira vaga como desenvolvimento web<br><br>👨‍🎓  Estou cursando análise e desenvolvimento de sistemas<br><br>👨‍💻 Venha conhecer meu portifólio: https://dev-eduardo-pina.netlify.app<br>
 
 
 ## 🌐 Socials:
