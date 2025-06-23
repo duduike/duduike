@@ -8,9 +8,10 @@
 
 <br>
 
-# 💫 Sobre mim:
+# Sobre mim:
 
-👨‍💻 Atualmente atuo como **Desenvolvedor Front-End na DarkSide Books**, trabalhando com **VTEX IO**, desenvolvendo **apps personalizados**, integrações via **API**, além de atuar com **React** e **Node.js** para soluções de e-commerce.<br><br>
+👨‍💻 Atualmente atuo como **Desenvolvedor Front-End na DarkSide Books**, trabalhando com **VTEX IO**, desenvolvendo **apps personalizados**, integrações via **API**, além de atuar com **React** e **Node.js** para soluções de e-commerce. *(Projetos internos com repositórios privados.)*<br><br>
+
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FMU - SP**.<br><br>
 
@@ -18,12 +19,12 @@
 
 <br>
 
-## 🌐 Redes sociais:
+## Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardohenriquepina) 
 
 <br>
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
